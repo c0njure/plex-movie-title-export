@@ -32,7 +32,7 @@ Install the dependency using whichever method suits your system:
 
 ```bash
 python -m venv venv
-source venv/bin/activate      # Windows: venv\Scripts\activate
+source venv/bin/activate
 pip install plexapi
 ```
 
