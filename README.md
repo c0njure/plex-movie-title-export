@@ -22,7 +22,7 @@ I made this script to be able to feed LLMs my collection list to recommend other
 ## Installation
 
 ```bash
-git clone https://github.com/c0njure/plex-movie-export.git
+git clone https://github.com/c0njure/plex-movie-title-export.git
 cd plex-movie-title-export
 ```
 
